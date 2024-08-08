@@ -7,9 +7,13 @@
     <title>Learning git and github</title>
   </head>
   <body>
+    <center>
     <h1><strong>Hello!</strong></h1>
+    </center>
   </body>
   <footer>
+    <center>
     <div id="copyright">&copy; SB OFFICIALS</div>
+    </center>
   </footer>
 </html>
